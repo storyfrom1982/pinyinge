@@ -1,0 +1,2764 @@
+{
+  "verb_entries": {
+    "word": "make",
+    "pos": "v",
+    "synsets": [
+      {
+        "name": "make.v.01",
+        "definition": "engage in",
+        "examples": [
+          "make love, not war",
+          "make an effort",
+          "do research",
+          "do nothing",
+          "make revolution"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "do",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hyponyms": [
+            {
+              "name": "overdo.v.01",
+              "definition": "do something to an excessive degree"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.16",
+              "definition": "perform or carry out"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.02",
+        "definition": "give certain properties to something",
+        "examples": [
+          "get someone mad",
+          "She made us look silly",
+          "He made a fool of himself at the meeting",
+          "Don't make this into a big deal",
+          "This invention will make you a millionaire",
+          "Make yourself clear"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "get",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "change.v.01",
+              "definition": "cause to change; make different; cause a transformation"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "get.v.03",
+              "definition": "cause to move; cause to be in a certain position or condition"
+            },
+            {
+              "name": "leave.v.03",
+              "definition": "act or be so as to become in a specified state"
+            },
+            {
+              "name": "render.v.01",
+              "definition": "cause to become"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.03",
+        "definition": "make or cause to be or to become",
+        "examples": [
+          "make a mess in one's office",
+          "create a furor"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "making"
+            ]
+          },
+          {
+            "name": "create",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "creature",
+              "creature"
+            ]
+          }
+        ],
+        "relations": {
+          "hyponyms": [
+            {
+              "name": "lay_down.v.01",
+              "definition": "institute, enact, or establish"
+            },
+            {
+              "name": "twine.v.03",
+              "definition": "make by twisting together or intertwining"
+            },
+            {
+              "name": "realize.v.03",
+              "definition": "make real or concrete; give reality or substance to"
+            },
+            {
+              "name": "raise.v.11",
+              "definition": "create a disturbance, especially by making a great noise"
+            },
+            {
+              "name": "recreate.v.04",
+              "definition": "create anew"
+            },
+            {
+              "name": "scrape.v.02",
+              "definition": "make by scraping"
+            },
+            {
+              "name": "give.v.09",
+              "definition": "cause to happen or be responsible for"
+            },
+            {
+              "name": "cleave.v.02",
+              "definition": "make by cutting into"
+            },
+            {
+              "name": "incorporate.v.03",
+              "definition": "form a corporation"
+            },
+            {
+              "name": "bring.v.03",
+              "definition": "cause to happen or to occur as a consequence"
+            },
+            {
+              "name": "film.v.02",
+              "definition": "record in film"
+            },
+            {
+              "name": "raise.v.07",
+              "definition": "summon into action or bring into existence, often as if by magic"
+            },
+            {
+              "name": "cut.v.06",
+              "definition": "form by probing, penetrating, or digging"
+            },
+            {
+              "name": "compose.v.02",
+              "definition": "write music"
+            },
+            {
+              "name": "prepare.v.03",
+              "definition": "to prepare verbally, either for written or spoken delivery"
+            },
+            {
+              "name": "reproduce.v.02",
+              "definition": "have offspring or produce more individuals of a given animal or plant"
+            },
+            {
+              "name": "create_from_raw_material.v.01",
+              "definition": "make from scratch"
+            },
+            {
+              "name": "blast.v.05",
+              "definition": "create by using explosives"
+            },
+            {
+              "name": "track.v.05",
+              "definition": "make tracks upon"
+            },
+            {
+              "name": "arouse.v.01",
+              "definition": "call forth (emotions, feelings, and responses)"
+            },
+            {
+              "name": "froth.v.02",
+              "definition": "make froth or foam and become bubbly"
+            },
+            {
+              "name": "direct.v.03",
+              "definition": "guide the actors in (plays and films)"
+            },
+            {
+              "name": "form.v.01",
+              "definition": "create (as an entity)"
+            },
+            {
+              "name": "produce.v.01",
+              "definition": "bring forth or yield"
+            },
+            {
+              "name": "generate.v.01",
+              "definition": "bring into existence"
+            },
+            {
+              "name": "style.v.02",
+              "definition": "make consistent with a certain fashion or style"
+            },
+            {
+              "name": "assemble.v.01",
+              "definition": "create by putting components or members together"
+            },
+            {
+              "name": "regenerate.v.07",
+              "definition": "form or produce anew"
+            },
+            {
+              "name": "institute.v.02",
+              "definition": "advance or set forth in court; ,"
+            },
+            {
+              "name": "build.v.03",
+              "definition": "build or establish something abstract"
+            },
+            {
+              "name": "put_on.v.04",
+              "definition": "carry out (performances)"
+            },
+            {
+              "name": "strike.v.13",
+              "definition": "produce by ignition or a blow"
+            },
+            {
+              "name": "puncture.v.02",
+              "definition": "make by piercing"
+            },
+            {
+              "name": "cut.v.22",
+              "definition": "form or shape by cutting or incising"
+            },
+            {
+              "name": "create_by_mental_act.v.01",
+              "definition": "create mentally and abstractly rather than with one's hands"
+            },
+            {
+              "name": "beat.v.18",
+              "definition": "make by pounding or trampling"
+            },
+            {
+              "name": "chop.v.03",
+              "definition": "form or shape by chopping"
+            },
+            {
+              "name": "offset.v.04",
+              "definition": "create an offset in"
+            },
+            {
+              "name": "copy.v.04",
+              "definition": "make a replica of"
+            },
+            {
+              "name": "press.v.07",
+              "definition": "create by pressing"
+            },
+            {
+              "name": "beget.v.01",
+              "definition": "make children"
+            },
+            {
+              "name": "cause.v.01",
+              "definition": "give rise to; cause to happen or occur, not always intentionally"
+            },
+            {
+              "name": "bear.v.05",
+              "definition": "bring forth,"
+            },
+            {
+              "name": "originate.v.02",
+              "definition": "bring into being"
+            },
+            {
+              "name": "create.v.05",
+              "definition": "create by artistic means"
+            },
+            {
+              "name": "clear.v.02",
+              "definition": "make a way or path by removing objects"
+            },
+            {
+              "name": "film-make.v.01",
+              "definition": "make films; be a film maker"
+            },
+            {
+              "name": "manufacture.v.04",
+              "definition": "create or produce in a mechanical way"
+            },
+            {
+              "name": "distill.v.03",
+              "definition": "extract by the process of distillation"
+            },
+            {
+              "name": "produce.v.03",
+              "definition": "cause to happen, occur or exist"
+            },
+            {
+              "name": "choreograph.v.01",
+              "definition": "compose a sequence of dance steps, often to music"
+            },
+            {
+              "name": "create_verbally.v.01",
+              "definition": "create with or from words"
+            },
+            {
+              "name": "grind.v.06",
+              "definition": "created by grinding"
+            },
+            {
+              "name": "construct.v.01",
+              "definition": "make by combining materials and parts"
+            },
+            {
+              "name": "re-create.v.01",
+              "definition": "create anew"
+            },
+            {
+              "name": "establish.v.05",
+              "definition": "bring about"
+            },
+            {
+              "name": "short-circuit.v.02",
+              "definition": "create a short circuit in"
+            },
+            {
+              "name": "derive.v.04",
+              "definition": "develop or evolve from a latent or potential state"
+            }
+          ]
+        }
+      },
+      {
+        "name": "induce.v.02",
+        "definition": "cause to do; cause to act in a specified manner",
+        "examples": [
+          "The ads induced me to buy a VCR",
+          "My children finally got me to buy a computer",
+          "My wife made me buy a new sofa"
+        ],
+        "lemmas": [
+          {
+            "name": "induce",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "inducive",
+              "inducement",
+              "induction",
+              "inducer",
+              "inducing"
+            ]
+          },
+          {
+            "name": "stimulate",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "stimulation",
+              "stimulation",
+              "stimulus"
+            ]
+          },
+          {
+            "name": "cause",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "causative",
+              "causation",
+              "cause",
+              "cause",
+              "cause"
+            ]
+          },
+          {
+            "name": "have",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "get",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hyponyms": [
+            {
+              "name": "lead.v.05",
+              "definition": "cause to undertake a certain action"
+            },
+            {
+              "name": "compel.v.01",
+              "definition": "force somebody to do something"
+            },
+            {
+              "name": "let.v.02",
+              "definition": "actively cause something to happen"
+            },
+            {
+              "name": "bring.v.11",
+              "definition": "induce or persuade"
+            },
+            {
+              "name": "persuade.v.02",
+              "definition": "cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm"
+            },
+            {
+              "name": "solicit.v.04",
+              "definition": "incite, move, or persuade to some act of lawlessness or insubordination"
+            },
+            {
+              "name": "decide.v.03",
+              "definition": "cause to decide"
+            },
+            {
+              "name": "suborn.v.03",
+              "definition": "induce to commit perjury or give false testimony"
+            },
+            {
+              "name": "encourage.v.03",
+              "definition": "spur on"
+            },
+            {
+              "name": "prompt.v.02",
+              "definition": "serve as the inciting cause of"
+            }
+          ]
+        }
+      },
+      {
+        "name": "cause.v.01",
+        "definition": "give rise to; cause to happen or occur, not always intentionally",
+        "examples": [
+          "cause a commotion",
+          "make a stir",
+          "cause an accident"
+        ],
+        "lemmas": [
+          {
+            "name": "cause",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "causative",
+              "causation",
+              "cause",
+              "cause",
+              "cause"
+            ]
+          },
+          {
+            "name": "do",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "make.v.03",
+              "definition": "make or cause to be or to become"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "effect.v.01",
+              "definition": "produce"
+            },
+            {
+              "name": "facilitate.v.03",
+              "definition": "increase the likelihood of (a response)"
+            },
+            {
+              "name": "initiate.v.02",
+              "definition": "take the lead or initiative in; participate in the development of"
+            },
+            {
+              "name": "engender.v.01",
+              "definition": "call forth"
+            },
+            {
+              "name": "impel.v.01",
+              "definition": "urge or force (a person) to an action; constrain or motivate"
+            },
+            {
+              "name": "provoke.v.02",
+              "definition": "evoke or provoke to appear or occur"
+            },
+            {
+              "name": "make.v.08",
+              "definition": "compel or make somebody or something to act in a certain way"
+            },
+            {
+              "name": "determine.v.02",
+              "definition": "shape or influence; give direction to"
+            },
+            {
+              "name": "occasion.v.01",
+              "definition": "give occasion to"
+            },
+            {
+              "name": "motivate.v.01",
+              "definition": "give an incentive for action"
+            }
+          ]
+        }
+      },
+      {
+        "name": "produce.v.02",
+        "definition": "create or manufacture a man-made product",
+        "examples": [
+          "We produce more cars than we can sell",
+          "The company has been making toys for two centuries"
+        ],
+        "lemmas": [
+          {
+            "name": "produce",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "producer",
+              "product",
+              "product"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "maker",
+              "maker",
+              "make",
+              "making"
+            ]
+          },
+          {
+            "name": "create",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "creation",
+              "creation"
+            ]
+          }
+        ],
+        "relations": {
+          "hyponyms": [
+            {
+              "name": "pulse.v.02",
+              "definition": "produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses"
+            },
+            {
+              "name": "laminate.v.01",
+              "definition": "create laminate by bonding sheets of material with a bonding material"
+            },
+            {
+              "name": "output.v.01",
+              "definition": "to create or manufacture a specific amount"
+            },
+            {
+              "name": "proof.v.01",
+              "definition": "make or take a proof of, such as a photographic negative, an etching, or typeset"
+            },
+            {
+              "name": "render.v.04",
+              "definition": "give or supply"
+            },
+            {
+              "name": "clap_up.v.01",
+              "definition": "make hastily and carelessly"
+            },
+            {
+              "name": "turn_out.v.03",
+              "definition": "produce quickly or regularly, usually with machinery"
+            },
+            {
+              "name": "remake.v.01",
+              "definition": "make new"
+            },
+            {
+              "name": "generate.v.03",
+              "definition": "produce (energy)"
+            },
+            {
+              "name": "breed.v.03",
+              "definition": "cause to procreate (animals)"
+            },
+            {
+              "name": "bootleg.v.02",
+              "definition": "produce or distribute illegally"
+            },
+            {
+              "name": "print.v.01",
+              "definition": "put into print"
+            },
+            {
+              "name": "fudge_together.v.01",
+              "definition": "produce shoddily, without much attention to detail"
+            },
+            {
+              "name": "smelt.v.01",
+              "definition": "extract (metals) by heating"
+            },
+            {
+              "name": "prefabricate.v.01",
+              "definition": "to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings"
+            },
+            {
+              "name": "custom-make.v.01",
+              "definition": "make to specifications"
+            },
+            {
+              "name": "underproduce.v.01",
+              "definition": "produce below capacity or demand"
+            },
+            {
+              "name": "reproduce.v.01",
+              "definition": "make a copy or equivalent of"
+            },
+            {
+              "name": "confect.v.01",
+              "definition": "make or construct"
+            },
+            {
+              "name": "overproduce.v.02",
+              "definition": "produce in excess"
+            },
+            {
+              "name": "prefabricate.v.02",
+              "definition": "produce synthetically, artificially, or stereotypically and unoriginally"
+            },
+            {
+              "name": "cut.v.21",
+              "definition": "create by duplicating data"
+            },
+            {
+              "name": "extrude.v.01",
+              "definition": "form or shape by forcing through an opening"
+            },
+            {
+              "name": "dummy.v.01",
+              "definition": "make a dummy of"
+            },
+            {
+              "name": "elaborate.v.02",
+              "definition": "produce from basic elements or sources; change into a more developed product"
+            },
+            {
+              "name": "machine.v.02",
+              "definition": "make by machinery"
+            },
+            {
+              "name": "churn_out.v.02",
+              "definition": "produce something at a fast rate"
+            },
+            {
+              "name": "put_out.v.02",
+              "definition": "put out considerable effort"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "create.v.05",
+              "definition": "create by artistic means"
+            }
+          ]
+        }
+      },
+      {
+        "name": "draw.v.04",
+        "definition": "make, formulate, or derive in the mind",
+        "examples": [
+          "I draw a line here",
+          "draw a conclusion",
+          "draw parallels",
+          "make an estimate",
+          "What do you make of his remarks?"
+        ],
+        "lemmas": [
+          {
+            "name": "draw",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "create_by_mental_act.v.01",
+              "definition": "create mentally and abstractly rather than with one's hands"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.44",
+              "definition": "calculate as being"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.08",
+        "definition": "compel or make somebody or something to act in a certain way",
+        "examples": [
+          "People cannot be made to integrate just by passing a law!",
+          "Heat makes you sweat"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "cause.v.01",
+              "definition": "give rise to; cause to happen or occur, not always intentionally"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "drive.v.07",
+              "definition": "compel somebody to do something, often against his own will or judgment"
+            }
+          ]
+        }
+      },
+      {
+        "name": "create.v.05",
+        "definition": "create by artistic means",
+        "examples": [
+          "create a poem",
+          "Schoenberg created twelve-tone music",
+          "Picasso created Cubism",
+          "Auden made verses"
+        ],
+        "lemmas": [
+          {
+            "name": "create",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "creative",
+              "creative",
+              "creation"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "making"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "make.v.03",
+              "definition": "make or cause to be or to become"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "design.v.05",
+              "definition": "create designs"
+            },
+            {
+              "name": "design.v.03",
+              "definition": "create the design for; create or execute in an artistic or highly skilled manner"
+            },
+            {
+              "name": "do.v.08",
+              "definition": "create or design, often in a certain way"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "produce.v.02",
+              "definition": "create or manufacture a man-made product"
+            }
+          ]
+        }
+      },
+      {
+        "name": "gain.v.08",
+        "definition": "earn on some commercial or business transaction; earn as salary or wages",
+        "examples": [
+          "How much do you make a month in your new job?",
+          "She earns a lot in her new job",
+          "this merger brought in lots of money",
+          "He clears $5,000 each month"
+        ],
+        "lemmas": [
+          {
+            "name": "gain",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "gainer"
+            ]
+          },
+          {
+            "name": "take_in",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "clear",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "earn",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "earner"
+            ]
+          },
+          {
+            "name": "realize",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "realise",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "pull_in",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "bring_in",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "get.v.01",
+              "definition": "come into the possession of something concrete or abstract"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "profit.v.02",
+              "definition": "make a profit; gain money or materially"
+            },
+            {
+              "name": "eke_out.v.03",
+              "definition": "make by laborious and precarious means"
+            },
+            {
+              "name": "take_home.v.01",
+              "definition": "earn as a salary or wage"
+            },
+            {
+              "name": "rake_off.v.01",
+              "definition": "take money from an illegal transaction"
+            },
+            {
+              "name": "yield.v.10",
+              "definition": "bring in"
+            },
+            {
+              "name": "gross.v.01",
+              "definition": "earn before taxes, expenses, etc."
+            },
+            {
+              "name": "rake_in.v.01",
+              "definition": "earn large sums of money"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "net.v.01",
+              "definition": "make as a net profit"
+            },
+            {
+              "name": "make.v.19",
+              "definition": "act in a certain way so as to acquire"
+            }
+          ]
+        }
+      },
+      {
+        "name": "do.v.08",
+        "definition": "create or design, often in a certain way",
+        "examples": [
+          "Do my room in blue",
+          "I did this piece in wood to express my love for the forest"
+        ],
+        "lemmas": [
+          {
+            "name": "do",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [
+              "unmake"
+            ],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "create.v.05",
+              "definition": "create by artistic means"
+            }
+          ]
+        }
+      },
+      {
+        "name": "form.v.02",
+        "definition": "to compose or represent:",
+        "examples": [
+          "This wall forms the background of the stage setting",
+          "The branches made a roof",
+          "This makes a fine introduction"
+        ],
+        "lemmas": [
+          {
+            "name": "form",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "form"
+            ]
+          },
+          {
+            "name": "constitute",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "constitution",
+              "constituent"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "constitute.v.01",
+              "definition": "form or compose"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "add.v.06",
+              "definition": "constitute an addition"
+            },
+            {
+              "name": "chelate.v.01",
+              "definition": "form a chelate, in chemistry"
+            }
+          ]
+        }
+      },
+      {
+        "name": "reach.v.07",
+        "definition": "reach a goal, e.g.,",
+        "examples": [
+          "make the first team",
+          "We made it!",
+          "She may not make the grade"
+        ],
+        "lemmas": [
+          {
+            "name": "reach",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "reaching"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "get_to",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "progress_to",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "achieve.v.01",
+              "definition": "to gain with effort"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.14",
+        "definition": "be or be capable of being changed or made into",
+        "examples": [
+          "He makes a great host",
+          "He will make a fine father"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "become.v.03",
+              "definition": "come into existence"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.15",
+        "definition": "make by shaping or bringing together constituents",
+        "examples": [
+          "make a dress",
+          "make a cake",
+          "make a wall of stones"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "making"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "create_from_raw_material.v.01",
+              "definition": "make from scratch"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "fashion.v.01",
+              "definition": "make out of components (often in an improvising manner)"
+            },
+            {
+              "name": "compile.v.03",
+              "definition": "use a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed"
+            },
+            {
+              "name": "compose.v.04",
+              "definition": "put together out of existing material"
+            },
+            {
+              "name": "cooper.v.01",
+              "definition": "make barrels and casks"
+            },
+            {
+              "name": "manufacture.v.01",
+              "definition": "put together out of artificial or natural components or parts; ; ; He manufactured a popular cereal\""
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.16",
+        "definition": "perform or carry out",
+        "examples": [
+          "make a decision",
+          "make a move",
+          "make advances",
+          "make a phone call"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "perform.v.01",
+              "definition": "carry out or perform an action"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "pay.v.08",
+              "definition": "render"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.01",
+              "definition": "engage in"
+            }
+          ]
+        }
+      },
+      {
+        "name": "construct.v.01",
+        "definition": "make by combining materials and parts",
+        "examples": [
+          "this little pig made his house out of straw",
+          "Some eccentric constructed an electric brassiere warmer"
+        ],
+        "lemmas": [
+          {
+            "name": "construct",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "construction",
+              "constructor"
+            ]
+          },
+          {
+            "name": "build",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "builder",
+              "building"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "maker",
+              "make",
+              "making"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "make.v.03",
+              "definition": "make or cause to be or to become"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "wattle.v.01",
+              "definition": "build of or with wattle"
+            },
+            {
+              "name": "lock.v.09",
+              "definition": "build locks in order to facilitate the navigation of vessels"
+            },
+            {
+              "name": "dry-wall.v.01",
+              "definition": "construct with drywall"
+            },
+            {
+              "name": "revet.v.01",
+              "definition": "construct a revetment"
+            },
+            {
+              "name": "rebuild.v.01",
+              "definition": "build again"
+            },
+            {
+              "name": "cantilever.v.02",
+              "definition": "construct with girders and beams such that only one end is fixed"
+            },
+            {
+              "name": "corduroy.v.01",
+              "definition": "build (a road) from logs laid side by side"
+            },
+            {
+              "name": "channelize.v.02",
+              "definition": "make a channel for; provide with a channel"
+            },
+            {
+              "name": "frame.v.06",
+              "definition": "construct by fitting or uniting parts together"
+            },
+            {
+              "name": "groin.v.01",
+              "definition": "build with groins"
+            },
+            {
+              "name": "raise.v.09",
+              "definition": "construct, build, or erect"
+            },
+            {
+              "name": "customize.v.02",
+              "definition": "make according to requirements"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "build.v.07",
+              "definition": "be engaged in building"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.18",
+        "definition": "change from one form into another",
+        "examples": [
+          "make water into wine",
+          "make lead into gold",
+          "make clay into bricks"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "change.v.01",
+              "definition": "cause to change; make different; cause a transformation"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.19",
+        "definition": "act in a certain way so as to acquire",
+        "examples": [
+          "make friends",
+          "make enemies"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "act.v.02",
+              "definition": "behave in a certain manner; show a certain behavior; conduct or comport oneself"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "have.v.17",
+              "definition": "achieve a point or goal"
+            },
+            {
+              "name": "gain.v.08",
+              "definition": "earn on some commercial or business transaction; earn as salary or wages"
+            }
+          ]
+        }
+      },
+      {
+        "name": "name.v.03",
+        "definition": "charge with a function; charge to be",
+        "examples": [
+          "She was named Head of the Committee",
+          "She was made president of the club"
+        ],
+        "lemmas": [
+          {
+            "name": "name",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "naming"
+            ]
+          },
+          {
+            "name": "nominate",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "nominative",
+              "nomination"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "appoint.v.02",
+              "definition": "assign a duty, responsibility or obligation to"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "rename.v.02",
+              "definition": "name again or anew"
+            }
+          ]
+        }
+      },
+      {
+        "name": "have.v.17",
+        "definition": "achieve a point or goal",
+        "examples": [
+          "Nicklaus had a 70",
+          "The Brazilian team got 4 goals",
+          "She made 29 points that day"
+        ],
+        "lemmas": [
+          {
+            "name": "have",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "get",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "score.v.01",
+              "definition": "gain points in a game"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.19",
+              "definition": "act in a certain way so as to acquire"
+            }
+          ]
+        }
+      },
+      {
+        "name": "reach.v.01",
+        "definition": "reach a destination, either real or abstract",
+        "examples": [
+          "We hit Detroit by noon",
+          "The water reached the doorstep",
+          "We barely made it to the finish line",
+          "I have to hit the MAC machine before the weekend starts"
+        ],
+        "lemmas": [
+          {
+            "name": "reach",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "attain",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "attainment"
+            ]
+          },
+          {
+            "name": "hit",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "arrive_at",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "gain",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hyponyms": [
+            {
+              "name": "top.v.06",
+              "definition": "reach or ascend the top of"
+            },
+            {
+              "name": "ground.v.06",
+              "definition": "hit or reach the ground"
+            },
+            {
+              "name": "culminate.v.04",
+              "definition": "reach the highest altitude or the meridian, of a celestial body"
+            },
+            {
+              "name": "make.v.37",
+              "definition": "reach in time"
+            },
+            {
+              "name": "get_through.v.03",
+              "definition": "succeed in reaching a real or abstract destination after overcoming problems"
+            },
+            {
+              "name": "catch_up.v.01",
+              "definition": "reach the point where one should be after a delay"
+            },
+            {
+              "name": "access.v.02",
+              "definition": "reach or gain access to"
+            },
+            {
+              "name": "summit.v.01",
+              "definition": "reach the summit (of a mountain)"
+            },
+            {
+              "name": "scale.v.04",
+              "definition": "reach the highest point of"
+            },
+            {
+              "name": "top_out.v.03",
+              "definition": "to reach the highest point; attain maximum intensity, activity"
+            },
+            {
+              "name": "find.v.15",
+              "definition": "succeed in reaching; arrive at"
+            },
+            {
+              "name": "bottom_out.v.01",
+              "definition": "reach the low point"
+            }
+          ],
+          "entailments": [
+            {
+              "name": "travel.v.01",
+              "definition": "change location; move, travel, or proceed, also metaphorically"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.37",
+              "definition": "reach in time"
+            }
+          ]
+        }
+      },
+      {
+        "name": "lay_down.v.01",
+        "definition": "institute, enact, or establish",
+        "examples": [
+          "make laws"
+        ],
+        "lemmas": [
+          {
+            "name": "lay_down",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "establish",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "make.v.03",
+              "definition": "make or cause to be or to become"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "set.v.04",
+              "definition": "establish as the highest level or best performance"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.24",
+        "definition": "carry out or commit",
+        "examples": [
+          "make a mistake",
+          "commit a faux-pas"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "perpetrate.v.01",
+              "definition": "perform an act, usually with a negative connotation"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.25",
+        "definition": "form by assembling individuals or constituents",
+        "examples": [
+          "Make a quorum"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "assemble.v.03",
+              "definition": "get people together"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.32",
+              "definition": "add up to"
+            }
+          ]
+        }
+      },
+      {
+        "name": "hold.v.03",
+        "definition": "organize or be responsible for",
+        "examples": [
+          "hold a reception",
+          "have, throw, or make a party",
+          "give a course"
+        ],
+        "lemmas": [
+          {
+            "name": "hold",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "throw",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "have",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "give",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "direct.v.04",
+              "definition": "be in charge of"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.27",
+        "definition": "put in order or neaten",
+        "examples": [
+          "make the bed",
+          "make up a room"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make_up",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "tidy.v.01",
+              "definition": "put (things or places) in order"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.38",
+              "definition": "gather and light the materials for"
+            }
+          ]
+        }
+      },
+      {
+        "name": "take.v.27",
+        "definition": "head into a specified direction",
+        "examples": [
+          "The escaped convict took to the hills",
+          "We made for the mountains"
+        ],
+        "lemmas": [
+          {
+            "name": "take",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "head.v.01",
+              "definition": "to go or travel towards"
+            }
+          ]
+        }
+      },
+      {
+        "name": "stool.v.04",
+        "definition": "have a bowel movement",
+        "examples": [
+          "The dog had made in the flower beds"
+        ],
+        "lemmas": [
+          {
+            "name": "stool",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "stool",
+              "stool"
+            ]
+          },
+          {
+            "name": "defecate",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "defecation",
+              "defecator"
+            ]
+          },
+          {
+            "name": "shit",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "shit",
+              "shit",
+              "shitter",
+              "shitting"
+            ]
+          },
+          {
+            "name": "take_a_shit",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "take_a_crap",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "ca-ca",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "crap",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "crap",
+              "crapper"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "excrete.v.01",
+              "definition": "eliminate from the body"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "dung.v.02",
+              "definition": "defecate; used of animals"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.49",
+              "definition": "eliminate urine"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.30",
+        "definition": "undergo fabrication or creation",
+        "examples": [
+          "This wool makes into a nice sweater"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "making",
+              "making"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "change.v.02",
+              "definition": "undergo a change; become different in essence; losing one's or its original nature"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.31",
+        "definition": "be suitable for",
+        "examples": [
+          "Wood makes good furniture"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "making"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "be.v.01",
+              "definition": "have the quality of being; (copula, used with an adjective or a predicate noun)"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.32",
+        "definition": "add up to",
+        "examples": [
+          "four and four make eight"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "total.v.01",
+              "definition": "add up in number or quantity"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.25",
+              "definition": "form by assembling individuals or constituents"
+            },
+            {
+              "name": "make.v.33",
+              "definition": "amount to"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.33",
+        "definition": "amount to",
+        "examples": [
+          "This salary increase makes no difference to my standard of living"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "amount.v.01",
+              "definition": "be tantamount or equivalent to"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.32",
+              "definition": "add up to"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.34",
+        "definition": "constitute the essence of",
+        "examples": [
+          "Clothes make the man"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "constitute.v.01",
+              "definition": "form or compose"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.35",
+        "definition": "appear to begin an activity",
+        "examples": [
+          "He made to speak but said nothing in the end",
+          "She made as if to say hello to us"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "look.v.02",
+              "definition": "give a certain impression or have a certain outward aspect"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.36",
+        "definition": "proceed along a path",
+        "examples": [
+          "work one's way through the crowd",
+          "make one's way into the forest"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "work",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "pass.v.01",
+              "definition": "go across or through"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "bushwhack.v.03",
+              "definition": "cut one's way through the woods or bush"
+            },
+            {
+              "name": "jostle.v.01",
+              "definition": "make one's way by jostling, pushing, or shoving"
+            },
+            {
+              "name": "claw.v.01",
+              "definition": "move as if by clawing, seizing, or digging"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "work.v.09",
+              "definition": "proceed towards a goal or along a path or through an activity"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.37",
+        "definition": "reach in time",
+        "examples": [
+          "We barely made the plane"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "reach.v.01",
+              "definition": "reach a destination, either real or abstract"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "reach.v.01",
+              "definition": "reach a destination, either real or abstract"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.38",
+        "definition": "gather and light the materials for",
+        "examples": [
+          "make a fire"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "create_from_raw_material.v.01",
+              "definition": "make from scratch"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.27",
+              "definition": "put in order or neaten"
+            },
+            {
+              "name": "cook.v.02",
+              "definition": "prepare for eating by applying heat"
+            }
+          ]
+        }
+      },
+      {
+        "name": "cook.v.02",
+        "definition": "prepare for eating by applying heat",
+        "examples": [
+          "Cook me dinner, please",
+          "can you make me an omelette?",
+          "fix breakfast for the guests, please"
+        ],
+        "lemmas": [
+          {
+            "name": "cook",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "cook",
+              "cooker",
+              "cooking",
+              "cookery"
+            ]
+          },
+          {
+            "name": "fix",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "ready",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "prepare",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "preparation"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "create_from_raw_material.v.01",
+              "definition": "make from scratch"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "deglaze.v.01",
+              "definition": "dissolve cooking juices or solid food in (a pan) by adding liquid and stirring"
+            },
+            {
+              "name": "precook.v.01",
+              "definition": "cook beforehand so that the actual preparation won't take long"
+            },
+            {
+              "name": "concoct.v.02",
+              "definition": "prepare or cook by mixing ingredients"
+            },
+            {
+              "name": "devil.v.02",
+              "definition": "coat or stuff with a spicy paste"
+            },
+            {
+              "name": "whip_up.v.01",
+              "definition": "prepare or cook quickly or hastily"
+            },
+            {
+              "name": "lard.v.01",
+              "definition": "prepare or cook with lard"
+            },
+            {
+              "name": "put_on.v.03",
+              "definition": "put on the stove or ready for cooking"
+            },
+            {
+              "name": "dress.v.06",
+              "definition": "kill and prepare for market or consumption"
+            },
+            {
+              "name": "scallop.v.02",
+              "definition": "bake in a sauce, milk, etc., often with breadcrumbs on top"
+            },
+            {
+              "name": "preserve.v.04",
+              "definition": "prevent (food) from rotting"
+            },
+            {
+              "name": "flambe.v.01",
+              "definition": "pour liquor over and ignite (a dish)"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.38",
+              "definition": "gather and light the materials for"
+            }
+          ]
+        }
+      },
+      {
+        "name": "seduce.v.01",
+        "definition": "induce to have sex",
+        "examples": [
+          "Harry finally seduced Sally",
+          "Did you score last night?",
+          "Harry made Sally"
+        ],
+        "lemmas": [
+          {
+            "name": "seduce",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "seduction",
+              "seducer"
+            ]
+          },
+          {
+            "name": "score",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "score"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "persuade.v.02",
+              "definition": "cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm"
+            }
+          ],
+          "entailments": [
+            {
+              "name": "sleep_together.v.01",
+              "definition": "have sexual intercourse with"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "seduce.v.02",
+              "definition": "lure or entice away from duty, principles, or proper conduct"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.41",
+        "definition": "assure the success of",
+        "examples": [
+          "A good review by this critic will make your play!"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [
+              "break"
+            ],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "guarantee.v.02",
+              "definition": "make certain of"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.42",
+        "definition": "represent fictitiously, as in a play, or pretend to be or act like",
+        "examples": [
+          "She makes like an actress"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "pretend",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "pretend"
+            ]
+          },
+          {
+            "name": "make_believe",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "make-believe"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "act.v.03",
+              "definition": "play a role or part"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "go_through_the_motions.v.01",
+              "definition": "pretend to do something by acting as if one was really doing it"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "feign.v.01",
+              "definition": "make believe with the intent to deceive"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.43",
+        "definition": "consider as being",
+        "examples": [
+          "It wasn't the problem some people made it"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "see.v.05",
+              "definition": "deem to be"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.44",
+              "definition": "calculate as being"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.44",
+        "definition": "calculate as being",
+        "examples": [
+          "I make the height about 100 feet"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "estimate.v.01",
+              "definition": "judge tentatively or form an estimate of (quantities or time)"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "make.v.43",
+              "definition": "consider as being"
+            },
+            {
+              "name": "draw.v.04",
+              "definition": "make, formulate, or derive in the mind"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.45",
+        "definition": "cause to be enjoyable or pleasurable",
+        "examples": [
+          "make my day"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "change.v.01",
+              "definition": "cause to change; make different; cause a transformation"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.46",
+        "definition": "favor the development of",
+        "examples": [
+          "Practice makes the winner"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "develop.v.13",
+              "definition": "generate gradually"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.47",
+        "definition": "develop into",
+        "examples": [
+          "He will make a splendid father!"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "making"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "develop.v.14",
+              "definition": "grow emotionally or mature"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.48",
+        "definition": "behave in a certain way",
+        "examples": [
+          "make merry"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "act.v.02",
+              "definition": "behave in a certain manner; show a certain behavior; conduct or comport oneself"
+            }
+          ]
+        }
+      },
+      {
+        "name": "make.v.49",
+        "definition": "eliminate urine",
+        "examples": [
+          "Again, the cat had made on the expensive rug"
+        ],
+        "lemmas": [
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "urinate",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "urination",
+              "urine",
+              "urinator"
+            ]
+          },
+          {
+            "name": "piddle",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "piddle"
+            ]
+          },
+          {
+            "name": "puddle",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "micturate",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "micturition"
+            ]
+          },
+          {
+            "name": "piss",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "piss",
+              "piss",
+              "pisser",
+              "pissing"
+            ]
+          },
+          {
+            "name": "pee",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "pee",
+              "pee",
+              "peeing"
+            ]
+          },
+          {
+            "name": "pee-pee",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make_water",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "relieve_oneself",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "take_a_leak",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "spend_a_penny",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "wee",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "wee-wee",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "pass_water",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "excrete.v.01",
+              "definition": "eliminate from the body"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "stale.v.01",
+              "definition": "urinate, of cattle and horses"
+            },
+            {
+              "name": "wet.v.02",
+              "definition": "make one's bed or clothes wet by urinating"
+            }
+          ],
+          "verb_groups": [
+            {
+              "name": "stool.v.04",
+              "definition": "have a bowel movement"
+            },
+            {
+              "name": "urinate.v.01",
+              "definition": "pass after the manner of urine"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "noun_entries": {
+    "word": "make",
+    "pos": "n",
+    "synsets": [
+      {
+        "name": "brand.n.02",
+        "definition": "a recognizable kind",
+        "examples": [
+          "there's a new brand of hero in the movies now",
+          "what make of car is that?"
+        ],
+        "lemmas": [
+          {
+            "name": "brand",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "make",
+              "make"
+            ]
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "kind.n.01",
+              "definition": "a category of things distinguished by some common characteristic or quality"
+            }
+          ]
+        }
+      },
+      {
+        "name": "shuffle.n.01",
+        "definition": "the act of mixing cards haphazardly",
+        "examples": [],
+        "lemmas": [
+          {
+            "name": "shuffle",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "shuffle"
+            ]
+          },
+          {
+            "name": "shuffling",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": [
+              "shuffle"
+            ]
+          },
+          {
+            "name": "make",
+            "antonyms": [],
+            "pertainyms": [],
+            "derivationally_related_forms": []
+          }
+        ],
+        "relations": {
+          "hypernyms": [
+            {
+              "name": "reordering.n.01",
+              "definition": "a rearrangement in a different order"
+            }
+          ],
+          "hyponyms": [
+            {
+              "name": "riffle.n.02",
+              "definition": "shuffling by splitting the pack and interweaving the two halves at their corners"
+            },
+            {
+              "name": "reshuffle.n.02",
+              "definition": "shuffling again"
+            }
+          ],
+          "part_holonyms": [
+            {
+              "name": "card_game.n.01",
+              "definition": "a game played with playing cards"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
