@@ -1,0 +1,36 @@
+# 微信小程序特定文件
+/project.private.config.json
+/dist/
+/miniprogram/node_modules/
+/miniprogram/miniprogram_npm/
+/_internal/
+
+# Node.js 依赖
+node_modules/
+.npm
+# package-lock.json
+# yarn.lock
+
+# 编译生成文件
+*.js
+*.js.map
+*.css
+*.css.map
+
+# 日志文件
+*.log
+logs/
+
+# IDE 和编辑器文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 可选：忽略 typings 目录下的类型文件（见下方解释）
+/typings/
