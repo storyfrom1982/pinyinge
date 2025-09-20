@@ -1,5 +1,24 @@
 <!--index.wxml-->
-<navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<t-navbar  title="勇哥文化">
+  <view slot="capsule" class="custom-capsule">
+    <t-icon
+      size="40rpx"
+      bind:tap="onMenu"
+      aria-role="button"
+      aria-label="菜单"
+      name="list"
+      class="custom-capsule__icon"
+    />
+    <t-icon
+      size="40rpx"
+      bind:tap="onSearch"
+      aria-role="button"
+      aria-label="搜索"
+      name="search"
+      class="custom-capsule__icon home"
+    />
+  </view>
+</t-navbar>
 <scroll-view class="scrollarea" scroll-y type="list">
   <view class="container">
     <view class="userinfo">

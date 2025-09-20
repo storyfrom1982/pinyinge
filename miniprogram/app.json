@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/home/index",
+    "pages/index/index"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -20,5 +20,6 @@
   },
   "componentFramework": "glass-easel",
   "sitemapLocation": "sitemap.json",
+  "usingComponents": {},
   "lazyCodeLoading": "requiredComponents"
 }

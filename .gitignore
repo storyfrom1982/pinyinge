@@ -1,6 +1,7 @@
 # 微信小程序特定文件
 /project.private.config.json
 /dist/
+/miniprogram/package-lock.json
 /miniprogram/node_modules/
 /miniprogram/miniprogram_npm/
 /_internal/
@@ -8,8 +9,8 @@
 # Node.js 依赖
 node_modules/
 .npm
-# package-lock.json
-# yarn.lock
+package-lock.json
+yarn.lock
 
 # 编译生成文件
 *.js
